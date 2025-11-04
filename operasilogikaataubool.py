@@ -46,7 +46,7 @@ b = False
 c = a and b
 print(a, 'and',b, '=' ,c)
 
-print("==========XOR========== ") #jika kedua variabel berbeda maka hasilnya true,jika true nya ganjil true , kalau true nya genap false 
+print("==========XOR========== ") #jika true nya ganjil true , kalau true nya genap false 
 a = True
 b = True
 c = a ^ b
